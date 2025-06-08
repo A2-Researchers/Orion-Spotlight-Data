@@ -4,12 +4,17 @@
         "one" : {
             "author" : "juniorrvr",
             "title" : "BiffBish spotted in the wild!",
-            "url" : ""
+            "url" : "https://raw.githubusercontent.com/A2-Researchers/Orion-Spotlight-Data/refs/heads/main/images/spotlight_one.png"
         },
         "two" : {
-            "author" : "Lemming",
-            "title" : "Lemming getting railed by other Drifters.",
-            "url" : ""
+            "author" : "LRKade",
+            "title" : "An important meeting...",
+            "url" : "https://raw.githubusercontent.com/A2-Researchers/Orion-Spotlight-Data/refs/heads/main/images/spotlight_two.png"
+        },
+        "three" : {
+            "author" : "PineVr",
+            "title" : "The real POV of a spectator camera.",
+            "url" : "https://raw.githubusercontent.com/A2-Researchers/Orion-Spotlight-Data/refs/heads/main/images/spotlight_three.png"
         }
     }
 }
