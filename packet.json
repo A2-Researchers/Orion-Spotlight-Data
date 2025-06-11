@@ -1,19 +1,19 @@
 {
-    "is_active" : true, 
+    "is_active" : false, 
     "scrapbook_data": {
         "one" : {
-            "author" : "juniorrvr",
-            "title" : "BiffBish spotted in the wild!",
+            "author" : "limemarshmallow",
+            "title" : "Bots in the wild. Documentary on Netflix when?",
             "url" : "https://raw.githubusercontent.com/A2-Researchers/Orion-Spotlight-Data/refs/heads/main/images/spotlight_one.png"
         },
         "two" : {
-            "author" : "LRKade",
-            "title" : "An important meeting...",
+            "author" : "tgi00",
+            "title" : "Can I pull the magical sword out?",
             "url" : "https://raw.githubusercontent.com/A2-Researchers/Orion-Spotlight-Data/refs/heads/main/images/spotlight_two.png"
         },
         "three" : {
-            "author" : "PineVr",
-            "title" : "The real POV of a spectator camera.",
+            "author" : "journeyjunebug",
+            "title" : "Cave Diver's selfie!",
             "url" : "https://raw.githubusercontent.com/A2-Researchers/Orion-Spotlight-Data/refs/heads/main/images/spotlight_three.png"
         }
     }
