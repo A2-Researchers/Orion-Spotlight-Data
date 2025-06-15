@@ -1,5 +1,6 @@
 {
     "is_active" : true, 
+    "curWeek" : 3,
     "scrapbook_data": {
         "one" : {
             "author" : "tgi00",
