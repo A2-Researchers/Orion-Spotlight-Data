@@ -2,18 +2,18 @@
     "is_active" : true, 
     "scrapbook_data": {
         "one" : {
-            "author" : "limemarshmallow",
-            "title" : "Bots in the wild. Documentary on Netflix when?",
+            "author" : "tgi00",
+            "title" : "Are they the god of the Orion?",
             "url" : "https://raw.githubusercontent.com/A2-Researchers/Orion-Spotlight-Data/refs/heads/main/images/spotlight_one.png"
         },
         "two" : {
-            "author" : "tgi00 & sp1ralist.",
-            "title" : "Can I pull the magical sword out?",
+            "author" : "tobin_paulsen",
+            "title" : "Which one has fake EA?",
             "url" : "https://raw.githubusercontent.com/A2-Researchers/Orion-Spotlight-Data/refs/heads/main/images/spotlight_two.png"
         },
         "three" : {
-            "author" : "journeyjunebug",
-            "title" : "Cave Diver's selfie!",
+            "author" : "tgi00",
+            "title" : "Please stop cooking FireClashy",
             "url" : "https://raw.githubusercontent.com/A2-Researchers/Orion-Spotlight-Data/refs/heads/main/images/spotlight_three.png"
         }
     }
