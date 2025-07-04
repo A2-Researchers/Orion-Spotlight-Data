@@ -1,26 +1,21 @@
 {
     "is_active" : true, 
-    "curWeek" : 3,
+    "curWeek" : 6,
     "scrapbook_data": {
         "one" : {
-            "author" : "scriptedpi",
-            "title" : "Drifter-dawg",
+            "author" : "cloudcreeper123",
+            "title" : "Black hole shenanigans!",
             "url" : "https://raw.githubusercontent.com/A2-Researchers/Orion-Spotlight-Data/refs/heads/main/images/spotlight_one.png"
         },
         "two" : {
-            "author" : "m3crystal",
-            "title" : "Reshade Rosie!",
+            "author" : ".spooky_official.",
+            "title" : "Is bro drifting it in the clouds? Are we on Earth again?",
             "url" : "https://raw.githubusercontent.com/A2-Researchers/Orion-Spotlight-Data/refs/heads/main/images/spotlight_two.png"
         },
         "three" : {
-            "author" : "tgi00",
-            "title" : "Pray to FireClashy.",
+            "author" : "lrkade",
+            "title" : "??? (We couldn't think of a comment for this...)",
             "url" : "https://raw.githubusercontent.com/A2-Researchers/Orion-Spotlight-Data/refs/heads/main/images/spotlight_three.png"
-        },
-        "aa_staff_pic" : {
-            "author" : "x_val_",
-            "title" : "BiffBish sneaky picture hehehehe",
-            "url" : "https://raw.githubusercontent.com/A2-Researchers/Orion-Spotlight-Data/refs/heads/main/images/aa_staff_pic.png"
         }
     }
 }
